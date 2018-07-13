@@ -12,7 +12,7 @@
 
 ## COMPONENT MAP ROUGH DRAFT
 
-<!-- ![alt text](https://github.com/ebruno94/capstone-planning/blob/master/image.jpg) -->
+<!-- ![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image.jpg) -->
 
 ## Project Goal:
 
@@ -21,13 +21,21 @@
 
 ## Below is a list of minimum features this project requires to meet its goals:
 
-1. 
+1. 2 player functionality.
+
+2. Description page, start page, and game page.
+
+3. win, lose, and tie functionality.
+
+4. Secret first-player-win strategy applied.
+
+5. Win, lose and tie page.
 
 ## Future Goals of Project:
 
 1. Make the Project in Java and eventually translate it into C#.
 
-2. Design 3x3x3, and 4x4x4 two player grid.
+2. Design 3x3x3 but cannot end in a draw and is easily won by the first player. and 4x4x4 two player grid.
 
 3. Further styling and professionalism.
 
