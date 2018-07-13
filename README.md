@@ -12,7 +12,10 @@
 
 ## COMPONENT MAP ROUGH DRAFT
 
-<!-- ![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image.jpg) -->
+![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image.jpg)
+![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image1.jpg)
+
+https://github.com/jroller03/react-tic-tac-toe.git
 
 ## Project Goal:
 
@@ -38,6 +41,8 @@
 2. Design 3x3x3 but cannot end in a draw and is easily won by the first player. and 4x4x4 two player grid.
 
 3. Further styling and professionalism.
+
+4. different difficulty of Computer AI opponents.
 
 ## Setup/Installation Requirements:
 
