@@ -13,7 +13,7 @@
 ## COMPONENT MAP ROUGH DRAFT
 
 ![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image.jpg)
-![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/image1.jpg)
+![alt text](https://github.com/jroller03/Capstone-Planning/blob/master/img1.jpg)
 
 https://github.com/jroller03/react-tic-tac-toe.git
 
