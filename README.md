@@ -48,7 +48,7 @@ https://github.com/jroller03/react-tic-tac-toe.git
 
 1. Clone this repository from GitHub.
 
-2. From Terminal install open jdk sudo apt-get install openjdk-7-jdk.
+2. From Terminal install open jdk sudo apt-get install openjdk-7-jdk. For React do an npm install and webpack-dev-server and it will pop up in window.
 
 3. Open Java program and save 3-D Tic-Tac-Toe
 
