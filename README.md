@@ -63,6 +63,7 @@ https://github.com/jroller03/react-tic-tac-toe.git
 ## Technologies Used:
 
 * HTML
+* React
 * CSS
 * Java
 * C# (maybe converted into)
